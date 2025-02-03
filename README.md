@@ -1,23 +1,29 @@
-這是一個類似owncloud 和 網盤的一個小項目
+This is a cloud project like the own-cloud
 
 Frontend:Vue2 + ElementUi
 Backend:SpringBoot + Mysql + Minio
 
-## 介紹
-MinIO基于Amazon S3协议，并提供了与S3兼容的API
+## Introduction
+Use Springboot + Minio
 
-## 并且該Demo前後端都采取了分片上傳 （即支持大文件上傳）
-## 同時也支持大文件的下載，分片下載然後合并文件
+## Moreover, both the front - end and back - end of this demo adopt chunked upload (i.e., it supports large - file uploads).
+## At the same time, it also supports the download of large files, with the file being downloaded in chunks and then merged.
 
-![输入图片说明](a7269766eba2e4b694a5bbe57d7e815.png)
+![image](https://github.com/user-attachments/assets/c476db43-3514-4693-86ee-92111dc5529d)
 
-![输入图片说明](9a833541f27f6bef2b8727cbe1f886a.png)
 
-![输入图片说明](e48c09163220153d7cb1fd03dae23cc.png)
+![image](https://github.com/user-attachments/assets/6af5ddcb-4853-4cb2-b354-4e36763cd22f)
 
-![输入图片说明](a4ea52de247c53284e70d11d9571344.png)
 
-![输入图片说明](7359b8898e1df1ac41dcae449f3c931.png)
+![image](https://github.com/user-attachments/assets/4b6184ff-2702-4ffc-b8d2-54146e250248)
 
-## 同時也用了Recursion，支持多個子文件夾的移動
-![输入图片说明](bd6f3f942a3a1bc51ce0205897d06b6.png)
+
+![image](https://github.com/user-attachments/assets/b386b177-e343-4deb-8f27-b0761021853e)
+
+
+![image](https://github.com/user-attachments/assets/47e6c8f8-634b-411f-aec0-d68afec94b0f)
+
+
+## Meanwhile, Recursion is also employed, enabling the movement of multiple sub - folders.
+![image](https://github.com/user-attachments/assets/b9f58776-bc18-45cd-a309-d4ea0bb8210e)
+
