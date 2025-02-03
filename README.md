@@ -1,7 +1,7 @@
 This is a cloud project like the own-cloud
 
-Frontend:Vue + ElementUi
-Backend:SpringBoot + Mysql + Minio
+Frontend: Vue + ElementUi
+Backend: SpringBoot + Mysql + Minio
 
 ## Introduction
 Use Springboot + Minio
