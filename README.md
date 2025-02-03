@@ -1,6 +1,6 @@
 This is a cloud project like the own-cloud
 
-Frontend:Vue2 + ElementUi
+Frontend:Vue + ElementUi
 Backend:SpringBoot + Mysql + Minio
 
 ## Introduction
